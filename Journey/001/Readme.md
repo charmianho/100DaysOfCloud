@@ -1,6 +1,6 @@
 
 
-# New post title here
+#Day 1 of my first 100days of cloud
 
 ## Introduction
 Hello, I am Charmian. I graduted from college a year ago and found that I should see COVID-19 as a opportunity to equip myself with more skills set and here I am.
